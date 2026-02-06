@@ -416,3 +416,13 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Machine learning data (CRITICAL)
+data/
+
+# Python virtual environment
+venv/
+
+# macOS junk
+.DS_Store
+
