@@ -11,7 +11,7 @@ A convolutional neural network (CNN) for skin lesion classification using the HA
 
 ## Dataset
 
-The model is trained on the [HAM10000 dataset](https://www.kaggle.com/datasets/kmader/skin-lesion-analysis-toward-melanoma-detection) — 10,015 dermoscopic images across 7 diagnostic categories:
+The model is trained on the [HAM10000 dataset](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) — 10,015 dermoscopic images across 7 diagnostic categories:
 
 | Label | Classes |
 |-------|---------|
